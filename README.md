@@ -12,3 +12,5 @@ Our app will feature an Emergency Location Mode in which the current location of
 The user can manually add and remove contacts that would to be notified according to his/her interest.
 
 Most important part of disaster management lies in alerting or warning the inhabitants of the area or region that is likely to be in danger zone. Thus, we have included a ALERT_MESSAGE to alert the users about any possible changes or information about the prediction. Alert message would be send through Azure. We have used NotificationsHub for the same.
+
+Clip:https://drive.google.com/open?id=1o9P38srxu5gD-5Zr_A8bl9_inPyIAzmz
